@@ -8,5 +8,5 @@
 
 # Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Rogério Oliveira</sub>](https://github.com/New_Masster) 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/82901003?v=4" width=115><br><sub>Rogério Oliveira</sub>](https://github.com/New_Masster) 
 | :---: |
