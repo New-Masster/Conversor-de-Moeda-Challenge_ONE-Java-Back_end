@@ -9,8 +9,11 @@ O objetivo principal deste challenge é que você viva a experiência de realiza
 Este desafio está desenhado pensando na importância de aplicar de maneira prática as aprendizagens obtidas nos seguintes cursos:
 
 Java: criando a sua primeira aplicação
+
 Java: aplicando a Orientação a Objetos
+
 Java: trabalhando com listas e coleções de dados
+
 Java: consumindo API, gravando arquivos e lidando com erros
 
 
