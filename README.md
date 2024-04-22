@@ -3,7 +3,7 @@
 
 <h2 align="justify">Pre-requisitos</h2>
 
-<h3>
+<h4 align="justify">
 O objetivo principal deste challenge é que você viva a experiência de realizar um projeto real, tal como ocorre no dia a dia de uma pessoa desenvolvedora. Você terá a oportunidade de praticar os conceitos aprendidos nos cursos realizados até agora.
 
 Este desafio está desenhado pensando na importância de aplicar de maneira prática as aprendizagens obtidas nos seguintes cursos:
@@ -17,7 +17,7 @@ Java: trabalhando com listas e coleções de dados
 Java: consumindo API, gravando arquivos e lidando com erros
 
 
-</h3>
+</h4>
 
 # Badge
 <p align="center">
